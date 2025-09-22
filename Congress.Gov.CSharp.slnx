@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Congress.Gov.CSharp.Tests/Congress.Gov.CSharp.Tests.csproj" Id="07ddd05a-400e-41a5-bbb9-88c2a0873de0" />
+  <Project Path="src/Congress.Gov.CSharp/Congress.Gov.CSharp.csproj" />
+</Solution>
